@@ -1,36 +1,36 @@
-#Bienvenidos a mi perfil 👋
+# Bienvenidos a mi perfil 👋
 <html>
 <img src="https://drive.google.com/uc?export=download&id=1bcB7w0opgobnE2dThzKJDD_xP6ggw6q1" alt=""  width="200px" style="display: block; margin: 0 auto;">
 <h3 style="text-align: center;">
 Samuel Aguilar Morales 🧑‍💻
 </h3>
 </html>
-#Acerca de mi. 😄💻
+# Acerca de mi. 😄💻
 Soy Samuel Aguilar Morales y uno de mis mayores sueños es ser desarrollador FrontEnd, soy un apasionado al diseño y programacion web, actualmente estoy cursando el 8vo semestre de la carrera de ingeniera en sistemas computacionales
 
-#Aptitudes y habilidades. 💾
+# Aptitudes y habilidades. 💾
 - Responsable.
 - Autodidacta.
 - Trabajo en equipo.
 - Adaptacion al cambio.
 
-#Herramientas que manejo actualmente ⚒
-##Diseño y maquetación.
+# Herramientas que manejo actualmente ⚒
+## Diseño y maquetación.
 - Adobe Photoshop CS6.
 - Figma.
 
-##FrontEnd.
+## FrontEnd.
 - HTML.
 - CSS.
 - JavaScript.
 - Boostrap.
 - SASS.
 
-##Backend.
+## Backend.
 - PHPmyAdmin.
 - SQL Server.
 
-#Más información.
+# Más información.
 
 Para conocer un poco mas de mi trabajo puedes descargar tanto mi CV como visitar mi portafolio de trabajo dando 🖱️en las siguientes imagenes:
 
