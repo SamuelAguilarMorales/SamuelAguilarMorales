@@ -27,21 +27,9 @@ Soy Samuel Aguilar Morales y uno de mis mayores sueños es ser desarrollador Fro
 - CSS.
 - JavaScript.
 - Boostrap.
-- SASS.
 
 ## Backend.
 - PHPmyAdmin.
 - SQL Server.
 
-# Más información.
 
-Para conocer un poco mas de mi trabajo puedes descargar tanto mi CV como visitar mi portafolio de trabajo dando 🖱️en las siguientes imagenes:
-
-<html>
-    <div class="paginas" style=" display: flex;
-            justify-content: space-between; gap: 40px;">
-        <a href="https://drive.google.com/file/d/1b04HfZdXv2GW0yqILfPh-G4CHaH63ir5/view?usp=sharing" target="_blank"><img src="https://drive.google.com/uc?export=download&id=1M65T238CeME67V94KAN7b31As5CWSOQH" alt=""></a>
-		<br>
-        <a href="#" target="_blank"><img src="https://drive.google.com/uc?export=download&id=1wDoDTSQU3n0YHu2lEuC1bDqBerR9W4wi" alt=""></a>
-    </div>
-</html>
