@@ -20,7 +20,6 @@ Soy Samuel Aguilar Morales y uno de mis mayores sueños es ser desarrollador Fro
 # Herramientas que manejo actualmente ⚒
 ## Diseño y maquetación.
 - Adobe Photoshop CS6.
-- Figma.
 
 ## FrontEnd.
 - HTML.
