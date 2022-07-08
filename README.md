@@ -1,5 +1,5 @@
 <html>
-<img src="https://drive.google.com/uc?export=download&id=1skMHtQ7rgYIrNw6XiSc7ln8Vn6sXDzS1" alt=""  width="200px" style="display: block; margin: 0 auto;">
+<img src="https://drive.google.com/uc?export=download&id=1skMHtQ7rgYIrNw6XiSc7ln8Vn6sXDzS1">
 </h3>
 </html>
 
