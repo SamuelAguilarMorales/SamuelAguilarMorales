@@ -1,8 +1,3 @@
-<html>
-<img src="https://drive.google.com/uc?export=download&id=1skMHtQ7rgYIrNw6XiSc7ln8Vn6sXDzS1">
-</h3>
-</html>
-
 # Bienvenidos a mi perfil 👋
 <html>
 	<center>
@@ -35,5 +30,6 @@ Soy Samuel Aguilar Morales y uno de mis mayores sueños es ser desarrollador Fro
 ## Backend.
 - PHPmyAdmin.
 - SQL Server.
+- PHP
 
 
