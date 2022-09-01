@@ -1,8 +1,6 @@
 # Bienvenidos a mi perfil 👋
 <html>
-	<center>
-<img src="https://drive.google.com/uc?export=download&id=1bcB7w0opgobnE2dThzKJDD_xP6ggw6q1">
-	</center>
+
 <h3 style="text-align: center;">
 Samuel Aguilar Morales 🧑‍💻
 </h3>
