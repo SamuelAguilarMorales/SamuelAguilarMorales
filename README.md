@@ -7,7 +7,7 @@ Samuel Aguilar Morales 🧑‍💻
 </html>
 
 ## Acerca de mi. 😄💻
-Soy Samuel Aguilar Morales y uno de mis mayores sueños es ser desarrollador FrontEnd, soy un apasionado al diseño y programacion web, actualmente estoy cursando el 8vo semestre de la carrera de ingeniera en sistemas computacionales
+Soy Samuel Aguilar Morales egresado de la carrera de Ingenieria en Sistemas Computacionales y uno de mis mayores sueños es ser desarrollador FrontEnd, soy un apasionado al diseño y programacion web.
 
 # Aptitudes y habilidades. 💾
 - Responsable.
